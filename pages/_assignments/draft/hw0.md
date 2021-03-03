@@ -3,7 +3,7 @@ layout: assignment
 title: Signup for a Lab
 abbreviation: HW0
 type: homework
-due_date: 2020-09-25
+due_date: 2021-09-25
 ordering: 1
 draft: 1
 points: 0

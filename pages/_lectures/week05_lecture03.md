@@ -4,14 +4,14 @@ title: "More Practice: While Loops & If Statements"
 type: lecture
 draft: 0
 points: 4
-num: 13
+num: 9
 description:
   - Practice using if / elif / else
   - Practice using while loops
 slides: 
    - title: "Supplementary Slides for Live Lecture"
      url: https://docs.google.com/presentation/d/1Q25E7tk0wX5hFPdEHELz7eWcXtgxmNTpaq4mSpKtxUU/edit?usp=sharing
-due_date: 2020-10-16
+due_date: 2021-04-29
 exercise_url: "lecture13.zip"
 quiz_url: "https://canvas.northwestern.edu/courses/120087/quizzes/125687"
 videos:

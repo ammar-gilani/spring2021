@@ -5,8 +5,8 @@ description:
     - practice using for loops to process data
 type: lecture
 draft: 0
-num: 15
-due_date: 2020-10-21   
+num: 10
+due_date: 2021-05-04   
 exercise_url: "lecture15.zip"
 videos:
   - title: "More practice w/looping algorithms"

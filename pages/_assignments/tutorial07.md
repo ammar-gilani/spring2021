@@ -9,7 +9,7 @@ abbreviation: Tutorial 7
 draft: 0
 num: 7
 points: 3
-due_date: 2020-11-04
+due_date: 2021-05-19
 ---
 
 <style>
@@ -20,7 +20,7 @@ due_date: 2020-11-04
     }
 </style>
 
-<a class="nu-button" href="/fall2020/course-files/tutorials/tutorial07.zip" target="_blank">
+<a class="nu-button" href="/spring2021/course-files/tutorials/tutorial07.zip" target="_blank">
     Tutorial Starter Files <i class="fas fa-download"></i>
 </a> 
 

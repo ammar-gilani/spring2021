@@ -6,8 +6,8 @@ description:
     - Practice making an app (on the command line)
 type: lecture
 draft: 0
-num: 27
-due_date: 2020-11-20
+num: 17
+due_date: 2021-06-01
 videos:
     - url: https://northwestern.zoom.us/rec/share/pAnP-CG_VnYS2LvvFDbGRDXX4VA0Lgl7BUFHXm4kv1PJfIsv7bAPqzrxETitFIP-.8F_6wDZLYYyVgMfi?startTime=1605889001000
       title: Live Lecture Coding

@@ -5,11 +5,11 @@ permalink: /syllabus/
 ---
 
 |--|--|
-| **Term** | Fall, 2020 |
+| **Term** | Spring, 2021 |
 | **Course** | CS 110: Intro to Computer Programming with Python |
 | **Prerequisites** | None |
-| **Instructor** | Sarah Van Wart |
-| **Lecture Time** | Monday, Wednesday, & Friday, 10:20 - 11:10am |
+| **Instructor** | Aleksandar Kuzmanovic |
+| **Lecture Time** | Tuesday, Thursday, 9:30 - 10:50am |
 | **Synchronous?** | I will be giving (and recording) lectures during regularly scheduled class time. <br>You are encouraged to come and ask questions live, but it is not required.  |
 | **Lecture Location** | Online (for now) |
 
@@ -37,35 +37,13 @@ Tutorials will be graded pass/fail. Even if you don't get everything working per
 
 
 ## Course Staff
-We have 22 peer mentors (undergraduates) and 2 graduate TAs to help you:
+We have ? peer mentors (undergraduates) and a graduate TA to help you:
 
 ### Peer Mentors
-* Cooper Barth (cooperbarth2021@u.northwestern.edu)
-* Kieran Bondy (kieranbondy2021@u.northwestern.edu)
-* Anthony Chen (anthonychen2021.1@u.northwestern.edu)
-* Linxin Chen (linxinchen2021@u.northwestern.edu)
-* Chase Duvall (chaseduvall2023@u.northwestern.edu)
-* Olivier Gabison (oliviergabison2022@u.northwestern.edu)
-* Olivia Gallager (oliviagallager2021@u.northwestern.edu)
-* Camila Grisanti (camilagrisanti2022@u.northwestern.edu)
-* Kevin Hou (kevinhou2022@u.northwestern.edu)
-* Katherine Johns (katherinejohns2021@u.northwestern.edu)
-* Charlotte Jones (charlottejones2022@u.northwestern.edu)
-* Joshua Kennedy (joshuakennedy2021@u.northwestern.edu)
-* Emmy Khawsam-ang (nichareekhawsam-ang2021@u.northwestern.edu)
-* Gabrielle Klein (gabrielleklein2021@u.northwestern.edu)
-* Caroline Lobel (carolinelobel2022@u.northwestern.edu)
-* Andy Moran (carlosmoran2022@u.northwestern.edu)
-* Athipat Pipatpinyopong (athipatpipatpinyopong2022@u.northwestern.edu)
-* Rhea Ramaiya (rhearamaiya2022@u.northwestern.edu)
-* Ariella Silver (a.silver@u.northwestern.edu)
-* Barbara Sledz (barbarasledz2022@u.northwestern.edu)
-* Nicole Villalba (nicolevillalba2022@u.northwestern.edu)
-* Lily Yan (lilyyan2023@u.northwestern.edu)
+* To be added...
 
-### Graduate Teaching Assistants
-* Yunming Xiao (yunming.xiao@u.northwestern.edu)
-* Andi Zang (andi.zang@u.northwestern.edu)
+### Graduate Teaching Assistant
+* Ammar Gilani (ammargilani2024@u.northwestern.edu)
 
 ## Course Materials and Resources 
 
@@ -156,7 +134,7 @@ In the past, there have been a few unfortunate instances in which students have 
 * While working with other students, it is perfectly acceptable to ‘look’ at each other’s code (perhaps while helping someone to debug), but you should NEVER be scribing (typing or writing) your own work while looking at someone else’s (on a computer screen, paper, whiteboard, etc.).
 * Uploading materials from this course to websites that sell such content to students is prohibited by Northwestern’s academic integrity policies, and may also put you at risk for violating copyright policies in Northwestern’s Student Conduct Code.
 
-Contact Sarah Van Wart if you have any questions about what is appropriate.
+Contact Aleksandar Kuzmanovic if you have any questions about what is appropriate.
 
 ## Zoom Instructions
 To ensure a smooth lecture experience for everyone, we have created a [Zoom Guide](../resources/zoom/) for you. Please refer to it to understand how to access the course Zoom sessions, and some of the recording and etiquette policies.
@@ -165,7 +143,7 @@ To ensure a smooth lecture experience for everyone, we have created a [Zoom Guid
 The Provost's office has asked instructors to publish the following language in the syllabus:
 
 > ### Class Recordings
-> This class or portions of this class may be recorded by the instructor for educational purposes. These recordings will be shared only with students enrolled in the course and will be deleted at the end of the Spring Quarter, 2020 course. Your instructor will communicate how you can access the recordings.
+> This class or portions of this class may be recorded by the instructor for educational purposes. These recordings will be shared only with students enrolled in the course and will be deleted at the end of the Spring Quarter, 2021 course. Your instructor will communicate how you can access the recordings.
 >
 > ### Policy On Unauthorized Student Recording of Classroom or other Academic Activities
 > Unauthorized student recording of classroom or other academic activities (including advising sessions or office hours) is prohibited. Unauthorized recording is unethical and may also be a violation of University policy and state law. Students requesting the use of assistive technology as an accommodation should contact AccessibleNU. Unauthorized use of classroom recordings — including distributing or posting them — is also prohibited.  

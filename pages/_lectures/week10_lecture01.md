@@ -5,8 +5,8 @@ description:
   - Finishing COVID-19 Analysis
 type: lecture
 draft: 0
-num: 25
-due_date: 2020-11-16
+num: 16
+due_date: 2021-05-27
 exercise_url: lecture24-friday-edits.zip
 slides: 
    - title: "Live Lecture"

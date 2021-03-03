@@ -6,8 +6,8 @@ description:
     - Error handling
 type: lecture
 draft: 0
-num: 19
-due_date: 2020-11-02
+num: 13
+due_date: 2021-05-18
 slides: 
    - title: "More Files & Strings + Error Handling"
      url: "https://docs.google.com/presentation/d/11N9ZvuBaYrdLg4Dqz7mpoJmYq4OCS_mOFiEANpgVIss/edit?usp=sharing"

@@ -7,8 +7,8 @@ description:
     - Understanding query parameters
 type: lecture
 draft: 0
-num: 26
-due_date: 2020-11-18
+num: 17
+due_date: 2021-06-01
 exercise_url: "lecture26.zip"
 slides:
    - title: "Practice with Cloud-Based Services"

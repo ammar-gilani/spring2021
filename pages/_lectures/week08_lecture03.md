@@ -5,8 +5,8 @@ description:
     - More practice with dictionaries
 type: lecture
 draft: 0
-num: 21
-due_date: 2020-11-06
+num: 14
+due_date: 2021-05-20
 exercise_url: "lecture21.zip"
 slides:
    - title: "More Dictionary Practice"

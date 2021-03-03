@@ -6,7 +6,7 @@ description:
 type: quiz
 draft: 0
 num: 2
-due_date: 2020-10-26
+due_date: 2021-05-11
 ---
 
 ## QUIZ 2 LINK NOW POSTED

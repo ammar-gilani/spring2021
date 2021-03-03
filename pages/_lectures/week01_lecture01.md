@@ -7,7 +7,7 @@ draft: 0
 show_schedule: 1
 description:
     - Intro to the course
-due_date: 2020-09-16
+due_date: 2021-03-30
 slides:
    - url: https://docs.google.com/presentation/d/1QZ4l2ViCeDFjV1lCprAI6AMizmYASGQ2z3YjdKuHIp8/edit?usp=sharing
      title: Course Logistics

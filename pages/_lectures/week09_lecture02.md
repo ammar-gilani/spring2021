@@ -7,8 +7,8 @@ description:
     - The "grouping algorithm"
 type: lecture
 draft: 0
-num: 23
-due_date: 2020-11-11
+num: 15
+due_date: 2021-05-25
 exercise_url: "lecture23.zip"
 slides:
    - title: "Using Dictionaries for Data Analysis"

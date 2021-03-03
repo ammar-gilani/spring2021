@@ -6,8 +6,8 @@ description:
     - examining different file types
 type: lecture
 draft: 0
-num: 17
-due_date: 2020-10-28
+num: 12
+due_date: 2021-05-13
 slides: 
    - title: "Working with Files"
      url: https://docs.google.com/presentation/d/10PHJet0ugSaKPBIyelW8Gc31C5UjS0yuPI5jFAMEHVY/edit?usp=sharing

@@ -22,3 +22,4 @@ course-files/**/results/*.json
 course-files/**/results/*.html
 course-files/lectures/lecture24/answers/files/*.csv
 my_token.py
+.idea/

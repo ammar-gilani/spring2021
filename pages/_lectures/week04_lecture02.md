@@ -4,14 +4,14 @@ title: |
     Quiz Review: Expressions
 type: lecture
 draft: 0
-num: 10
+num: 7
 description:
   - Operators & Data Types
   - Functions
   - Variables & Variable Scope
   - Lists & Tuples
   - Modules
-due_date: 2020-10-07
+due_date: 2021-04-20
 
 ---
 

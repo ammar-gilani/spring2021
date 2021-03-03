@@ -3,19 +3,19 @@ layout: assignment
 title: Covid-19 Simulation (Optional)
 abbreviation: EC1
 type: extra credit
-due_date: 2020-05-31
+due_date: 2021-05-31
 ordering: 1
 draft: 1
 points: 5
 ---
-<a class="nu-button" href="/fall2020/course-files/homework/ec01.zip" target="_blank">
+<a class="nu-button" href="/spring2021/course-files/homework/ec01.zip" target="_blank">
     Extra Credit Starter Files <i class="fas fa-download"></i>
 </a> 
 
 > **Important**: This assignment is **OPTIONAL**, and can be completed for 5 points extra credit.
 
 ## Covid-19: A Real-World Learning Opportunity for Programming
-<img class="medium frame" src="/fall2020/assets/images/ec01/simulation.png" />
+<img class="medium frame" src="/spring2021/assets/images/ec01/simulation.png" />
 
 Given the Covid-19 pandemic, in this activity, Peter Zhong, one of our peer mentors, has created an extra credit (optional) lab that walks you through how a data scientist might model the progression of diseases with the aid of computer technologies such as Python. In fact, an effective (though somewhat simplified) model can be built using only CS 110 concepts to simulate the different parameters governing a real-world outbreak. 
 

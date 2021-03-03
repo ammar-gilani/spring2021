@@ -5,8 +5,8 @@ type: lecture
 draft: 0
 description:
     - Files continued
-num: 18
-due_date: 2020-10-30
+num: 12
+due_date: 2021-05-13
 slides: 
    - title: "Supplementary Slides for Live Lecture"
      url: https://docs.google.com/presentation/d/1N9WmWH-yiX8hmL8ErcyYLqSyKaulTegklgZPikyHxI4/edit?usp=sharing
