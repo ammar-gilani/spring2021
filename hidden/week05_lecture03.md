@@ -16,7 +16,7 @@ exercise_url: "lecture13.zip"
 quiz_url: "https://canvas.northwestern.edu/courses/120087/quizzes/125687"
 videos:
    - title: "Practice using while loops with if statements"
-     url: "https://northwestern.zoom.us/rec/share/oyyaGLkD4YO4S7tE-nXWZDybAlDIkRUVJ7yrGrfSQq3GVEaeCLNNtOvN85s1WgmK.v93LSBUPWP9qBUdK?startTime=1602861600000"
+     url: 
      duration: "51:30"
      live: 1
 ---

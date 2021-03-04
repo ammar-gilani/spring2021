@@ -24,17 +24,17 @@ readings:
     url: http://openbookproject.net/thinkcs/python/english3e/iteration.html
 videos:
    - title: "Introduction to loops"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=face3e16-0900-41bf-95aa-ac5300db3cb9
-     duration: "9:07"
+     url: 
+     duration: ""
    - title: "While loops example"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37c3c020-0c9b-4b28-9bfe-ac5300e78956"
-     duration: "15:51"
+     url: 
+     duration: ""
    - title: "Loops & Lists"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05efb09d-ccd6-47ff-90a6-ac5300ec9c84"
-     duration: "22:04"
+     url: 
+     duration: ""
    - title: "Practice with logical and comparison operators; while loops"
-     url: "https://northwestern.zoom.us/rec/share/FnEx9uhPBG7cOTXFoPfOfKnJMqCMNmPOI0HHPpni5IXEakF9oM4JOUWrGDeNi3E.Osk_izuHiHL6NhSa?startTime=1602688576000"
-     duration: "49:31"
+     url: 
+     duration: ""
      live: 1
 
 exercise_url: "lecture12.zip"

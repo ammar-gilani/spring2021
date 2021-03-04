@@ -15,7 +15,7 @@ due_date: 2021-04-20
 
 ---
 
-<a href="https://northwestern.zoom.us/rec/share/F6CgL3NAOkaPEG_Xq6TrjMac0iSknmtxSsh2L_sH21tJvnHomSOWM26bPaiFoNU.F6oHaFGAFdCWYYgw?startTime=1602083700000" target="_blank">Video from Today's Lecture</a>
+<a href="" target="_blank">Video from Today's Lecture</a>
 
 Today, we're going to field questions from the class and go over them. We're also going to make sure we understand how to do these two problems:
 

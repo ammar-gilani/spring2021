@@ -23,20 +23,20 @@ readings:
     url: http://openbookproject.net/thinkcs/python/english3e/conditionals.html
 videos:
   - title: "Intro to conditionals"
-    url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7863d81e-b9d9-43de-9203-ac510017b4f8"
-    duration: "9:20"
+    url: 
+    duration: ""
   - title: "If and else"
-    url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff743751-0bfe-4760-b9d5-ac510017b4ce"
-    duration: "15:03"
+    url: 
+    duration: ""
   - title: "Elif"
-    url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=84e84244-45f9-4a1b-93a0-ac510017b494"
-    duration: "11:06"
+    url: 
+    duration: ""
   - title: "Logical operators and Truth Tables"
-    url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e91fee92-305e-440f-80f8-ac510017b52d"
-    duration: "22:49"
+    url: 
+    duration: ""
   - title: "Practice with conditional statements"
-    url: "https://northwestern.zoom.us/rec/share/lS3WPOKX3ezYsAOXrdG0IQi7j5N9y4o0l-HTkzZoxfw8zdCLxJkDBiei4gW3cgPJ.973fohQMjmvSFg8w?startTime=1602515819000"
-    duration: "53:57"
+    url: 
+    duration: ""
     live: 1
 
 exercise_url: "lecture11.zip"

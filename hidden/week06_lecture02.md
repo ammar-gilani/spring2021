@@ -10,7 +10,7 @@ due_date: 2021-05-04
 exercise_url: "lecture15.zip"
 videos:
   - title: "More practice w/looping algorithms"
-    url: https://northwestern.zoom.us/rec/share/lCYhCiYbtn37IePAfNzQV9G3SbiaD68ADbX592jL5wp6cHNymYIV3xK9ItgEDbPB.rIhCSKMFV_wmExde?startTime=1603293365000
+    url: 
     live: 1
     duration: "51:24"
 slides:

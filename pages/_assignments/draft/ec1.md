@@ -35,7 +35,7 @@ With just 100 lines, you can simulate how how herd immunity, social distancing, 
 ## Your Task
 1. Download the starter files
 1. Install pillow (if you haven't already): `pip3 install pillow`
-1. Watch Peter's <a href="https://northwestern.zoom.us/rec/play/65Mofr2orWo3HNTD4gSDVPd8W43uKKmshylM-KUKyR7hU3ELNVCuNecRZ-GFRYpMqTlnAdxJVO4hT5tl?startTime=1589338064000" target="_blank">video walkthrough</a> and code along
+1. Watch Peter's <a href="" target="_blank">video walkthrough</a> and code along
 1. Submit a working version of the simulation, starting from the `starter.py` file
 1. Write 1-2 paragraphs explaining how the code works in your own words
 1. Submit your working code via a zip file

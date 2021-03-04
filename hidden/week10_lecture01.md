@@ -13,7 +13,7 @@ slides:
      url: https://docs.google.com/presentation/d/10PSQtBvtqki3FFCMJuzFwuvl9J-UTYUn7upLlITGJUQ/edit?usp=sharing
 videos:
    - title: "COVID-19 Analysis (Part 2)"
-     url: "https://northwestern.zoom.us/rec/share/BRTb91oKSprPaSXzbk1D9HggCWq_0tMbtoUdkC2Owv_lr6dZB2afbO7U0J7uzJZW.5dXrYgKSqW1oyehR"
+     url: 
      duration: "54:35"
      live: 1
 ---

@@ -15,20 +15,20 @@ slides:
      url: https://docs.google.com/presentation/d/1w11NnZ2VfJ1nGCMob1C1CAp1DNDRWPrMBRYT3TsC9tI/edit?usp=sharing
 videos:
    - title: "Intro to for loops"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c52b7ba-2496-4e69-a5b8-ac5701804a89"
-     duration: "8:29"
+     url: 
+     duration: ""
    - title: "Break and continue"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=24f8c3b6-d2f2-4c55-90dd-ac570182c230"
-     duration: "6:59"
+     url: 
+     duration: ""
    - title: "The range function"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46489f3e-0c40-478b-8f76-ac570179345d"
-     duration: "9:09"
+     url: 
+     duration: ""
    - title: "Looping algorithms"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b95a7de-2b8a-4c86-ab89-ac5701793481"
-     duration: "14:02"
+     url: 
+     duration: ""
    - title: "Practice w/looping algorithms"
-     url: "https://northwestern.zoom.us/rec/share/Ws0oC3TM9xKkUfVKpo0deM4NXWYp6n3-wGV-EP3oezfuYb8RFyMhXiqZdcOt6oJ5.0yNvQPSuulM6DwMx?startTime=1603120502000"
-     duration: "49:32"
+     url: 
+     duration: ""
      live: 1
      
 quiz_url: "https://canvas.northwestern.edu/courses/120087/quizzes/125689"

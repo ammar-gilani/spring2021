@@ -21,20 +21,20 @@ slides:
 
 videos:
    - title: "L20a: Dictionary syntax / functionality"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00f44615-f673-4f23-aad1-ac66002d1d3e
-     duration: "16:49"
+     url: 
+     duration: ""
    - title: "L20b: Dictionaries as lookup tables"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaf282ab-1c41-410e-a6cd-ac66002d1ca4
-     duration: "10:37"
+     url: 
+     duration: ""
    - title: "L20c: Dictionaries as entity representations"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf0fea18-9e86-4fdb-b463-ac66002d1d0c
-     duration: "7:20"
+     url: 
+     duration: ""
    - title: "L20d: Lists of dictionaries (Twitter)"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8d001fc-c385-4f3a-b8c5-ac66002d1cdc
-     duration: "14:50"
+     url: 
+     duration: ""
    - title: "Practice with dictionaries"
-     url: https://northwestern.zoom.us/rec/share/3SkTD0igmrYmcpSwaKliUopIKaRuyjEWtP0bwo9SRN3PQ4SEmn1yfwgLEHCOKK1v.NupDxRshetxgxCxK?startTime=1604506591000
-     duration: "52:39"
+     url: 
+     duration: ""
      live: 1
 
 exercise_url: "lecture20.zip"

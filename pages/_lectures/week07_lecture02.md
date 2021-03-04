@@ -24,17 +24,17 @@ readings:
     video_url: https://www.py4e.com/lessons/files
 videos:
    - title: "L17a: String & List Functions"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e125524d-4800-4a54-848a-ac6200326f7e"
-     duration: "10:15"
+     url: 
+     duration: ""
    - title: "L17b: Reading & Writing Files"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5641bed4-583f-4979-8e46-ac6200326fc3"
-     duration: "8:00"
+     url: 
+     duration: ""
    - title: "L17c: Some Example Programs"
-     url: "https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79ff3149-5d1a-4385-a0e1-ac6200327003"
-     duration: "5:39"
+     url: 
+     duration: ""
    - title: "Practice working with files and string functions"
-     url: "https://northwestern.zoom.us/rec/share/7nhPw42zCZFr020TMF4F43DNe8pzVkvjf9fSYYIZDcSs4PFCbqJ0Ri-oKx0EmrUO.bUVJDQj6fHozOQYE"
-     duration: "52:28"
+     url: 
+     duration: ""
      live: 1
 
 

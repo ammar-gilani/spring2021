@@ -11,7 +11,7 @@ slides:
   - url: https://docs.google.com/presentation/d/1Zh56r23K1NuMp1AtUE8wYYrIYDDDoSrxRgWsxl4uUXc/edit?usp=sharing
     title: "Supplementary Slides for Live Lecture"
 videos:
-  - url: https://northwestern.zoom.us/rec/share/38FJQDFeA2V3Q1IRXGoxK7D8jXFD7jyN0Kc2cToykkFYx8faZ82VAIV0AVVBpTGx.nHEgGLV6gY5ol804?startTime=1601478956000
+  - url: 
     title: "Practice writing functions (part 2)"
     duration: "50:34"
     live: 1

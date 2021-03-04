@@ -18,14 +18,14 @@ slides:
     title: "Supplementary Slides for Live Lecture"
 videos:
    - title: "Modules"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cdf22c7a-a0a5-4dd3-aa04-ac4800281691
-     duration: "20:05"
+     url: 
+     duration: ""
    - title: "Variable Scope"
-     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6d77a18-c9c3-4926-96f0-ac48003185a1
-     duration: "16:43"
+     url: 
+     duration: ""
    - title: "More functions / modules practice"
-     url: https://northwestern.zoom.us/rec/share/OBOhodJVdQaAwZAOm8Ujy6EH3GDsxi9NyaHrYfw-YNdgYa7JQVI6GJhzZiMUIbwn.2Di9mwhMT9S81-2e?startTime=1601651807000
-     duration: "51:07"
+     url: 
+     duration: ""
      live: 1
 
 exercise_url: "lecture08.zip"

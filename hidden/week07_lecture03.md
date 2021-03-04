@@ -12,7 +12,7 @@ slides:
      url: https://docs.google.com/presentation/d/1N9WmWH-yiX8hmL8ErcyYLqSyKaulTegklgZPikyHxI4/edit?usp=sharing
 videos:
    - title: "More Practice with files and string functions"
-     url: https://northwestern.zoom.us/rec/share/Bl_50oVTGW8KobT-x3Tg5Q-v-LK2iP5MgkND5R9tSkkQZ351vhoS9waBVXJUrTZb.JrFBGl-vh_1K7FVJ?startTime=1604071037000
+     url: 
      duration: "50:19"
      live: 1
 ---

@@ -9,9 +9,9 @@ num: 16
 due_date: 2021-05-27
 exercise_url: "lecture24.zip"
 videos:
-    - url: "https://northwestern.zoom.us/rec/share/8yCWTShFAVuZsEtMIyX9rQpQo_sTnFcLb1-r_ZggRWWpaMLqNDyjvs_d2iCdM2El.J2kyuNR6-86WTo1r?startTime=1605284299000"
+    - url: 
       title: "Live Lecture Exercise"
-      duration: "56:12"
+      duration: ""
       live: 1
 
 ---

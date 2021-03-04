@@ -16,20 +16,20 @@ slides:
   - url: https://docs.google.com/presentation/d/1VG5VzsFl1-3Jhx5vg6dE7Q5E4UdFDArEfN-SFOW_dM8/edit?usp=sharing
     title: Supplementary Slides for Live Lecture
 videos: 
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e2f95f7-bb7a-46fa-981f-ac3f00e58f30
+  - url: 
     title: "Expressions & Intro to Functions"
-    duration: "15:50"
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b33f552-6832-470e-adb9-ac3f00ea4a11
+    duration: ""
+  - url: 
     title: "More Function Rules"
-    duration: "15:32"
-  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e20884ad-6be9-4c89-bfce-ac3f00f17646
+    duration: ""
+  - url: 
     title: "Built-In Functions Demo"
-    duration: "09:10"
-  - url: https://northwestern.zoom.us/rec/share/DZvCoZQkHTJDrAuF7upiUWIYWLiWQeP2P4EPT_EUdcdACHrSvfDfteYX1GXbZ67S.USz0IOhV0mcBTzwX?startTime=1601046960000
+    duration: ""
+  - url: 
     live: 1
     title: Practice calling functions
     duration: |
-        51:23
+        
 
 
 readings:

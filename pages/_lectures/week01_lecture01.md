@@ -12,15 +12,15 @@ slides:
    - url: https://docs.google.com/presentation/d/1QZ4l2ViCeDFjV1lCprAI6AMizmYASGQ2z3YjdKuHIp8/edit?usp=sharing
      title: Course Logistics
 videos:
-   - url: https://northwestern.zoom.us/rec/share/I2_Ca--AHcIBzJEk_xTwNJ9upEuAzydj44wwhX0UqtQ4AN2GxXzyo0izw7nui0LG.7vXfGNec0mqrZeqJ?startTime=1600268954000
+   - url: 
      title: Course Logistics
      duration: |
-       52:13
+       
      live: 1
 
 extras:
   - title: "Course Questionnaire"
-    comments: "Please complete the pre-course questionnaire by tonight (9/16)!"
+    comments: "Please complete the pre-course questionnaire by tonight (3/30)!"
     url: "https://forms.gle/BAcFZv3tkQpycXyZ6"
     external: 1
 ---

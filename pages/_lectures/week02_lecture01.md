@@ -15,27 +15,27 @@ slides:
   - url: https://docs.google.com/presentation/d/1Qsthtvr5hL4A0QG4RV3lqa_CNjp0r3ctFBaj1A5TaEQ/edit?usp=sharing
     title: Supplementary Slides for Live Lecture
 videos:
-   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=270174ec-2451-4c8d-a279-ac3a002e0a1a
+   - url: 
      duration: |
-        10:51
+        
      title: Using the Lecture Files
-   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fa0d8d0-2741-4897-a770-ac3a00386656
+   - url: 
      duration: |
-        17:04
+        
      title: Data Types & Variables
-   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e405208f-6a48-44d5-8431-ac3a0041daca
+   - url: 
      title: Operators
      duration: |
-        08:36
-   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=521b28fc-4c28-4255-89ca-ac3a0041d9a9
+        
+   - url: 
      title: Built-in Functions
      duration: |
-        13:31
-   - url: https://northwestern.zoom.us/rec/share/ifxhUhGq3fM5vpD8HZQvI_SwAdVUp2gZT6LWHVuYSpMGSGlJqjMxfM0wSARWu5UV.LJVTdXXDx-z3ndzR?startTime=1600701350000
+        
+   - url: 
      live: 1
      title: Practice with variables, constants, & operators
      duration: |
-        01:02:59
+        
 
 readings:
   - title: "Ch2: Variables"

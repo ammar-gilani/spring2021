@@ -13,7 +13,7 @@ slides:
      url: https://docs.google.com/presentation/d/1a5Ab0sWjl49mklIBdO1XocaUTCdgEUGTar2NBGNDkiM/edit?usp=sharing
 videos:
    - title: "Practice Querying API Endpoints with Spotify"
-     url: https://northwestern.zoom.us/rec/share/4y-sRw8p_V5SJ5OEfVoOnWbu_pajWsQywUCrmYdIIJdDASAc3kOI9JRp5mwlPuzK.MJEbewz0jNpSEV9P?startTime=1604679312000
+     url: 
      live: 1
      duration: "52:34"
 ---
