@@ -21,7 +21,7 @@ videos:
 extras:
   - title: "Course Questionnaire"
     comments: "Please complete the pre-course questionnaire by tonight (3/30)!"
-    url: "https://forms.gle/BAcFZv3tkQpycXyZ6"
+    url: "https://forms.gle/Z1S3HcH38kDVSLAXA"
     external: 1
 ---
 
