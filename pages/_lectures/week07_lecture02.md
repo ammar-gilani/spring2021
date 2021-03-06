@@ -39,7 +39,7 @@ videos:
 
 
 
-exercise_url: "lecture17.zip"
+exercise_url: "lecture12.zip"
 ---
 
 

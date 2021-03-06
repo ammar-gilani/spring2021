@@ -43,12 +43,6 @@ readings:
     url: https://www.py4e.com/html3/10-tuples
     video_url: https://www.py4e.com/lessons/tuples
 
-exercise_url: "lecture04.zip"
+exercise_url: "lecture03.zip"
 ---
-In this lesson, we will review several different concepts: the command line, running python files, and an intro to more complex data structures (lists and tuples). 
-
-{:.blockquote-no-margin}
-> ### Note: The slides/files references in the videos have changed slightly
-> Some of the slides / file references have changed from last quarter, but the content is the same.
-
-During lecture, we will be going through several different examples of how you might want to use a list.
+In this lesson, we will review several different concepts: the command line, running python files, and an intro to more complex data structures (lists and tuples). During lecture, we will be going through several different examples of how you might want to use a list.

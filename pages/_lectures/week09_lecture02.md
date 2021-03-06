@@ -9,7 +9,7 @@ type: lecture
 draft: 0
 num: 15
 due_date: 2021-05-25
-exercise_url: "lecture23.zip"
+exercise_url: "lecture15.zip"
 slides:
    - title: "Using Dictionaries for Data Analysis"
      url: "https://docs.google.com/presentation/d/1co8CTPIZvyZOAmfhQi4G4VBf7sBbdHw4d2ZODzl8xDM/edit?usp=sharing"

@@ -39,7 +39,7 @@ videos:
     duration: |
         
 
-exercise_url: "lecture06.zip"
+exercise_url: "lecture05.zip"
 ---
 
 In this lesson, we're going to go over how to create your own custom functions. After this lesson, we will have covered everything that you need to know in order to complete [Tutorial 2](../assignments/tutorial02) and homework [Homework 2](../assignments/tutorial02).

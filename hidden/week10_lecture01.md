@@ -7,7 +7,7 @@ type: lecture
 draft: 0
 num: 16
 due_date: 2021-05-27
-exercise_url: lecture24-friday-edits.zip
+exercise_url: lecture16-2.zip
 slides: 
    - title: "Live Lecture"
      url: https://docs.google.com/presentation/d/10PSQtBvtqki3FFCMJuzFwuvl9J-UTYUn7upLlITGJUQ/edit?usp=sharing

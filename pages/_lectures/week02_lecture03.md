@@ -43,7 +43,7 @@ readings:
 
 
 
-exercise_url: "lecture05.zip"
+exercise_url: "lecture04.zip"
 ---
 
 <img class="module-image" src="/spring2021/assets/images/lectures/lecture_03_functions.png" /> 

@@ -32,7 +32,7 @@ videos:
      live: 1
      
 quiz_url: "https://canvas.northwestern.edu/courses/120087/quizzes/125689"
-exercise_url: "lecture14.zip"
+exercise_url: "lecture10.zip"
 ---
 
 Today, we will be introducing the "for loop" and using it to work with lists and sequences. We will also be exploring some different looping algorithms: applying while and for loops to do various kinds of computations.

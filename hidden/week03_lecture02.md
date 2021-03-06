@@ -15,7 +15,7 @@ videos:
     title: "Practice writing functions (part 2)"
     duration: "50:34"
     live: 1
-exercise_url: "lecture07.zip"
+exercise_url: "lecture05-2.zip"
 ---
 
 In this lecture, we will be continuing our exploration of functions. The relevant videos can be found in [Lesson 6](week03-lecture01).

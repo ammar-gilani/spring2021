@@ -9,7 +9,7 @@ type: lecture
 draft: 0
 num: 17
 due_date: 2021-06-01
-exercise_url: "lecture26.zip"
+exercise_url: "lecture17.zip"
 slides:
    - title: "Practice with Cloud-Based Services"
      url: https://docs.google.com/presentation/d/1_o3oa30KVJ3qqsM7G_HPsKRUsw7RiiqoyKLGdaS7q6A/edit?usp=sharing

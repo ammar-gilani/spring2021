@@ -28,7 +28,7 @@ videos:
      duration: ""
      live: 1
 
-exercise_url: "lecture08.zip"
+exercise_url: "lecture06.zip"
 readings:
   - title: "Ch12: Modules"
     author: "Heinold"

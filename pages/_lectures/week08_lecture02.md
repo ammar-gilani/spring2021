@@ -37,7 +37,7 @@ videos:
      duration: ""
      live: 1
 
-exercise_url: "lecture20.zip"
+exercise_url: "lecture14.zip"
 ---
 
 Today and on Friday, we will be learning about dictionaries -- another way (in addition to lists and tuples) of storing and representing collections of related data. As a programmer, you will encounter dictionaries all of the time. We'll go over some common scenarios and take a look at many different kinds of dictionaries.

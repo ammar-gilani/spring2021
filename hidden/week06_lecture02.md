@@ -7,7 +7,7 @@ type: lecture
 draft: 0
 num: 10
 due_date: 2021-05-04   
-exercise_url: "lecture15.zip"
+exercise_url: "lecture10-2.zip"
 videos:
   - title: "More practice w/looping algorithms"
     url: 

@@ -14,7 +14,7 @@ slides:
      url: https://docs.google.com/presentation/d/10r73Xh63awBIFhe3gW9_csOFTpUu2ZS_9OhNw1Th0uU/edit?usp=sharing
    - title: "Supplementary Slides for Live Lecture"
      url: https://docs.google.com/presentation/d/1uAqFw4yA2UEahgvJUsvUCuiRlIVgZOqGsodwya1xZyg/edit?usp=sharing
-exercise_url: "lecture16.zip"
+exercise_url: "lecture11.zip"
 videos:
    - title: "L16a: Intro to the Project"
      url: 
